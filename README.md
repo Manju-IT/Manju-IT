@@ -6,11 +6,10 @@
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
-  
+<p align="center">I am a programer who is seeking to get a job 😊
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
+<a href="https://www.instagram.com/si_man_00?igsh=MW80MGg4eHo5eDlyZw==">
   <img align="center" 
        alt="Lunox's Instagram" 
        width="22px" 
