@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hey Everyone 😍, I'm Kaaluru Manjunath
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
+       width="35px">
   </h2></h1>
 
 
@@ -12,22 +12,22 @@
 <a href="https://www.instagram.com/si_man_00?igsh=MW80MGg4eHo5eDlyZw==">
   <img align="center" 
        alt=" Instagram" 
-       width="22px" 
+       width="35px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
 <a href="https://www.linkedin.com/in/manjunath-kaaluru-121368260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img align="center" 
        alt="Linkdein" 
-       width="22px" 
+       width="35px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
 
   
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
+<a href="https://stackoverflow.com/users/26855735/manjunath-kaaluru?tab=profile">
   <img align="center" 
        alt="Stack Overflow" 
-       width="22px" 
+       width="35px" 
        src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
   </a>
   
