@@ -112,7 +112,52 @@
   <img align="center" 
        src="https://camo.githubusercontent.com/2cceed41b900f96b10b8e4a8e538cd81bd89c06ced2147fea7572b32426f66fa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7472616e73706172656e74" 
        alt='Lunox's favorite languages" />
+  
 </a>
+<div>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+        }
+        .card h2 {
+            margin: 0 0 20px;
+        }
+        .stat {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+        .grade {
+            margin-top: 20px;
+            font-size: 24px;
+            color: #ffcc00;
+            font-weight: bold;
+        }
+    </style>
+</div>
+<body>
+    <div class="card">
+        <h2>Anurag Hazra's GitHub Stats</h2>
+        <div class="stat">Total Stars Earned: <strong>71.3k</strong></div>
+        <div class="stat">Total Commits (2024): <strong>135</strong></div>
+        <div class="stat">Total Issues: <strong>179</strong></div>
+        <div class="grade">A+</div>
+    </div>
   
 <a href="https://github.com/Lunox-code">
   <img align="center"
