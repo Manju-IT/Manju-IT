@@ -114,52 +114,6 @@
        alt='Lunox's favorite languages" />
   
 </a>
-<div>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Stats Card</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f4f4f4;
-        }
-        .card {
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            width: 300px;
-            text-align: center;
-        }
-        .card h2 {
-            margin: 0 0 20px;
-        }
-        .stat {
-            margin: 10px 0;
-            font-size: 18px;
-        }
-        .grade {
-            margin-top: 20px;
-            font-size: 24px;
-            color: #ffcc00;
-            font-weight: bold;
-        }
-    </style>
-</div>
-<body>
-    <div class="card">
-        <h2>Anurag Hazra's GitHub Stats</h2>
-        <div class="stat">Total Stars Earned: <strong>71.3k</strong></div>
-        <div class="stat">Total Commits (2024): <strong>135</strong></div>
-        <div class="stat">Total Issues: <strong>179</strong></div>
-        <div class="grade">A+</div>
-    </div>
+
   
-<a href="https://github.com/Lunox-code">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
+
