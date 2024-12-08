@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kaaluru Manjunath</h1>
-<h3 align="center">A passionate Python & frontend developer from India</h3><br><hr>
+<h3 align="center">A passionate Coder from India</h3><br><hr>
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
