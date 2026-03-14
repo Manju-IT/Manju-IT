@@ -11,9 +11,9 @@
 &nbsp; <br><hr>
 
 
--  All of my projects are available at [https://manju-it.github.io/My-website/](https://manju-it.github.io/My-website/)
+-  All of my projects are available at [https://manjunathkaaluru.me/](https://manjunathkaaluru.me/)
 
--  I regularly write articles on [https://manju-it.github.io/My-website/](https://manju-it.github.io/My-website/)
+-  I regularly write articles on [https://manjunathkaaluru.me/](https://manjunathkaaluru.me/)
 
 -  Ask me about **Python,Sql,tableau,Aws**
 
