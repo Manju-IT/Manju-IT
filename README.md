@@ -11,13 +11,13 @@
 &nbsp; <br><hr>
 
 
-- 👨‍💻 All of my projects are available at [https://manju-it.github.io/My-website/](https://manju-it.github.io/My-website/)
+-  All of my projects are available at [https://manju-it.github.io/My-website/](https://manju-it.github.io/My-website/)
 
-- 📝 I regularly write articles on [https://manju-it.github.io/My-website/](https://manju-it.github.io/My-website/)
+-  I regularly write articles on [https://manju-it.github.io/My-website/](https://manju-it.github.io/My-website/)
 
-- 💬 Ask me about **Python,Sql,tableau,Aws**
+-  Ask me about **Python,Sql,tableau,Aws**
 
-- 📫 How to reach me **kalurimanjunath@gmail.com**
+-  How to reach me **kalurimanjunath@gmail.com**
 
 
 <h3 align="center">Connect with me:</h3>
